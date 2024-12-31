@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Sahil Kengar and I'm a Angular Developer, from Mumbai, india</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Angular+developer+;MEAN+Stack+developer" alt="Typing SVG" /></a>
-###
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
