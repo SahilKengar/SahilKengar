@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋! My name is Sahil Kengar</h2>
 <p align="center">A passionate Web Developer from Mumbai, India</p>
 
-<a align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&center=false&width=435&lines=Angular+developer+;MEAN+Stack+developer" alt="Typing SVG" /></a>
+<a align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&center=true&width=100%&lines=Angular+developer+;MEAN+Stack+developer" alt="Typing SVG" /></a>
 
 <p align="center">Languages and Tools:</p>
 
