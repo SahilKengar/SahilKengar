@@ -1,9 +1,8 @@
-<h2 align="left">Hi 👋! My name is Sahil Kengar and I'm a Angular Developer, from Mumbai, india</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Angular+developer+;MEAN+Stack+developer" alt="Typing SVG" /></a>
-<br>
-<h2 align="center">Hi 👋! My name is Sahil Kengar</h2>
 
+<h2 align="center">Hi 👋! My name is Sahil Kengar</h2>
+<p align="center">A passionate Web Developer from Mumbai, India</p>
 ###
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&center=true&width=435&lines=Angular+developer+;MEAN+Stack+developer" alt="Typing SVG" /></a>
 
 <p align="center">Languages and Tools:</p>
 
