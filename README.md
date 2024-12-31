@@ -57,6 +57,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SahilKengar/SahilKengar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SahilKengar/output/snake.svg" alt="Snake animation" />
 
 ###
